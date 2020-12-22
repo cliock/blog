@@ -9,8 +9,9 @@ hexo s
 ```
 2. 打包发布
 ```
-hexo g
-hexo d
+  hexo clean 
+  hexo g  
+  hexo d
 ```
 
 
